@@ -1,67 +1,29 @@
-# Stock Universe — edit this list or let the agent discover more
+# Stock Universe — AI Photonics / Optical Interconnect Theme
+# Focus: under-discovered photonics stocks benefiting from AI data center buildout
 # Format: TICKER (one per line, comments start with #)
 
-# US Mega-cap Tech
-NVDA
-AAPL
-MSFT
-GOOGL
-META
-AMZN
-TSLA
+# Pure-Play Optical Transceivers & Components
+COHR
+LITE
+AAOI
+FN
 
-# US Semiconductors
-AMD
-AVGO
-TSM
-ASML
-QCOM
-MRVL
-ARM
+# Optical Networking
+CIEN
+VIAV
 
-# US Software / Cloud
-CRM
-NOW
-SNOW
-PLTR
-DDOG
-NET
-CRWD
+# Silicon Photonics / Emerging
+POET
+LPTH
 
-# HK / China Tech
-0700.HK
-9988.HK
-3690.HK
-9618.HK
-1810.HK
-9888.HK
+# Photonics-Adjacent (Lasers, Precision Optics)
+LASR
+MKSI
+IPGP
 
-# HK Financials
-0005.HK
-1299.HK
-2318.HK
-0388.HK
+# Under-the-Radar / Smaller Cap
+IIVI
+RELL
 
-# US Financials
-JPM
-V
-MA
-GS
-
-# Healthcare / Biotech
-LLY
-UNH
-ISRG
-VRTX
-
-# Energy / Industrial
-XOM
-LIN
-CAT
-GE
-
-# Consumer
-COST
-LVMUY
-NKE
-SBUX
+# China Optical (if researchable)
+# 300308.SZ  — Zhongji Innolight (dominant AI transceiver supplier)
