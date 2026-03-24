@@ -1,0 +1,46 @@
+# Hormuz Disruption Bond Universe
+# Tier 1-6 from program.md, ordered by conviction
+# Format: TICKER | Rating | Sector | Why
+
+# Tier 1: Non-Hormuz Oil & Gas Producers
+XOM       # AA-  | US Permian + Guyana Stabroek, Atlantic routes
+CVX       # AA-  | US Permian + Australia LNG (Gorgon, Wheatstone)
+COP       # A    | US shale (Permian, Eagle Ford, Bakken) + Australia
+EQNR      # AA-  | Norway North Sea, direct pipe to Europe
+CNQ       # BBB+ | Canadian oil sands, TMX pipeline to Pacific
+WDS       # BBB+ | Australia NW Shelf LNG, Pacific to Asia
+
+# Tier 1b: LNG Exporters (non-Hormuz)
+LNG       # BBB  | Cheniere, US Gulf Coast LNG to Europe/Asia
+#GLNG     # N/A  | Venture Global — not yet public debt, monitor
+
+# Tier 2: US Midstream (toll roads, higher throughput)
+EPD       # BBB+ | Enterprise Products, Gulf Coast NGL/crude
+MPLX      # BBB  | MPLX, Marcellus/Permian gathering
+ET        # BBB  | Energy Transfer, largest US pipeline network
+ENB       # BBB+ | Enbridge, Canadian crude to US + offshore
+TRP       # BBB+ | TC Energy, NGTL + Keystone
+
+# Tier 3: US Refiners (crack spread explosion)
+VLO       # BBB  | Valero, largest independent, Gulf Coast
+PSX       # BBB+ | Phillips 66, refining + midstream + chems
+MPC       # BBB  | Marathon Petroleum, largest US refiner
+
+# Tier 4: Defense Primes (escalation = budget acceleration)
+LMT       # A-   | Lockheed, F-35 + missiles + naval
+RTX       # BBB+ | RTX, Patriot + NASAMS + Pratt engines
+NOC       # BBB+ | Northrop, B-21 + space + cyber
+GD        # A    | General Dynamics, subs + Gulfstream
+
+# Tier 5: Second-Order / Non-Obvious
+CCJ       # BBB- | Cameco, uranium. Energy security → nuclear
+NTR       # BBB  | Nutrien, potash + nitrogen. Non-ME fertilizer
+LIN       # A    | Linde, industrial gas. Pricing power in energy stress
+MOS       # BBB  | Mosaic, US phosphate + Canadian potash
+TRGP      # BBB  | Targa Resources, NGL export terminal
+
+# Tier 6: Reinsurance (war risk premium spike)
+BRK       # AA   | Berkshire, reinsurance + energy holdings
+#SREN.SW  # AA-  | Swiss Re, war risk premiums (Zurich-listed)
+
+# Tier 7: Discovered During Research (agent adds here)
