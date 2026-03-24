@@ -15,16 +15,16 @@ Micron said in its March 18, 2026 fiscal Q2 prepared remarks that data-center DR
 
 ```
 EQUIPMENT / MATERIALS
-  ASML / Tokyo Electron / Lam / Advantest / FormFactor / Hanmi / substrates / wafers
+  ASML / Tokyo Electron / Lam / Advantest / FormFactor / Hanmi / ASMPT / substrates / wafers
                 ↓
 DRAM / NAND FABRICATION
-  SK hynix / Micron / Samsung / Kioxia / SanDisk
+  SK hynix / Micron / Samsung / Kioxia / Sandisk
                 ↓
-HBM STACKING / ADVANCED PACKAGING / TEST
-  Hanmi / Hanwha / ASMPT / FormFactor / Advantest / in-house packaging lines
+CONTROLLERS / FIRMWARE / PACKAGING / TEST
+  Silicon Motion / HBM bonders / probe cards / testers / advanced packaging lines
                 ↓
 MODULES / SSD / SERVER MEMORY
-  HBM cubes / DDR5 RDIMMs / LP modules / enterprise SSDs
+  HBM cubes / DDR5 RDIMMs / LP modules / enterprise SSDs / boot drives
                 ↓
 AI SYSTEMS
   NVIDIA / AMD / hyperscalers / server OEMs / storage OEMs / edge AI devices
@@ -38,6 +38,7 @@ AI SYSTEMS
 | HBM bonding tools | Hanmi, Hanwha, ASMPT | Chokepoint inside the chokepoint | HBM die must be stacked and bonded with high yield |
 | Memory test systems | Advantest | Tight oligopoly | High-performance DRAM and AI memory need more test intensity |
 | Probe cards | FormFactor | Tight oligopoly | Wafer sort and advanced DRAM / HBM test become harder as stacks and speeds rise |
+| SSD controllers | Silicon Motion, Phison, in-house NAND vendors | Merchant bottleneck | AI SSDs still need qualified controller and firmware stacks |
 | Server DRAM / enterprise SSD | Micron, SK hynix, Samsung, Kioxia, SanDisk | AI levered but more competitive | Inference growth broadens the cycle beyond HBM |
 
 ## What Breaks If These Layers Tighten
@@ -69,6 +70,7 @@ Inference pushes more data into fast storage and higher-capacity memory tiers. T
 ### HBM packaging / test chokepoints
 
 - **Hanmi Semiconductor (042700.KS)**: TC bonder bottleneck for HBM stacks
+- **ASMPT (0522.HK)**: TCB leader pushing into HBM4 and advanced packaging
 - **Advantest (6857.T)**: Memory tester demand tied to high-performance DRAM and AI memory
 - **FormFactor (FORM)**: Probe-card enabler shipping to all three major HBM makers
 
@@ -76,6 +78,7 @@ Inference pushes more data into fast storage and higher-capacity memory tiers. T
 
 - **Kioxia (285A.T)**: NAND / eSSD leverage if AI storage tightens further
 - **SanDisk (SNDK)**: Flash and enterprise SSD optionality
+- **Silicon Motion (SIMO)**: Merchant SSD controller leader with AI boot-drive and enterprise ramp
 - **Tokyo Electron (8035.T)** / **Lam Research (LRCX)**: Memory capex and cleanroom expansion leverage
 
 ## Key Risks To The Theme

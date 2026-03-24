@@ -10,6 +10,7 @@ MU          # Micron — pure-play U.S. memory, HBM4 + AI SSD
 
 # Tier 2: HBM Packaging / Test Chokepoints
 042700.KS   # Hanmi Semiconductor — TC bonder bottleneck for HBM stacking
+0522.HK     # ASMPT — TCB / advanced packaging leader breaking into HBM4
 6857.T      # Advantest — memory test systems for high-performance DRAM / AI memory
 FORM        # FormFactor — HBM / DRAM probe card leverage
 
@@ -27,3 +28,5 @@ AMKR        # Amkor — advanced packaging capacity, memory-adjacent
 ASML        # Lithography, indirect but critical to next-gen memory nodes
 AMAT        # Materials and deposition broad beneficiary
 KLAC        # Process control, yield and inspection
+6315.T      # TOWA — packaging / molding and advanced packaging adjacency
+8110.TW     # Walton Advanced Engineering — memory packaging and test exposure
