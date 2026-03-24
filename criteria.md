@@ -1,98 +1,120 @@
-# Scoring Criteria
+# Scoring Criteria — Chokepoint Edition
 
 Total score out of 100, weighted across 5 dimensions + signal adjustments.
 
-## 1. Business Quality (25 points)
+## 1. Chokepoint Strength (30 points) — THE PRIMARY DIMENSION
 
-| Score | Criteria |
-|-------|----------|
-| 21-25 | Wide moat, dominant market position, secular tailwind, best-in-class management |
-| 16-20 | Clear competitive advantage, growing market share, strong management |
-| 11-15 | Decent business, some differentiation, competent management |
-| 6-10  | Commodity business, limited moat, average management |
-| 1-5   | Declining moat, losing share, governance concerns |
+This replaces generic "business quality." Score based on the 5-question chokepoint test:
+
+| Chokepoint Score (out of 25) | Points | Tier |
+|------------------------------|--------|------|
+| 21-25 | 26-30 | **Monopoly Chokepoint** — only supplier, years to replicate, industry breaks without them |
+| 16-20 | 20-25 | **Duopoly Chokepoint** — 2 suppliers, high switching costs, critical to chain |
+| 11-15 | 14-19 | **Oligopoly with Moat** — 3-5 suppliers, leader has structural advantage |
+| 6-10  | 7-13  | **Competitive with Differentiation** — many suppliers, some brand/IP moat |
+| 1-5   | 1-6   | **Commodity** — easily substitutable, no structural advantage |
+
+### The 5 Chokepoint Questions
+
+| # | Question | 5 (strongest) | 3 (moderate) | 1 (weakest) |
+|---|----------|---------------|--------------|-------------|
+| 1 | What breaks if they stop shipping? | Entire downstream chain halts | Some products delayed | Minor inconvenience |
+| 2 | How many alternatives exist? | 0-1 viable alternatives | 2-3 alternatives | 5+ alternatives |
+| 3 | How long to qualify a replacement? | >2 years | 6-24 months | <6 months |
+| 4 | What % of customer COGS? | <5% (cheap but critical) | 5-15% | >15% (expensive, customers motivated to find alternatives) |
+| 5 | Is capacity physically constrained? | Yes (physics, geology, IP) | Yes (capex cycle, 2-3yr lead) | No (can scale quickly) |
+
+**Key insight**: The best chokepoints are CHEAP but CRITICAL. A $2 component that holds up a $50,000 system gives the supplier enormous pricing power with zero customer motivation to redesign around it.
 
 ## 2. Financial Strength (25 points)
 
-| Score | Criteria | Data Check |
-|-------|----------|------------|
-| 21-25 | High margins, strong FCF, low debt, high ROIC (>20%), consistent growth | Net margin >15%, D/E <0.5, FCF yield >5% |
-| 16-20 | Above-average margins, positive FCF, manageable debt, good ROIC (15-20%) | Net margin 10-15%, D/E <1.0 |
-| 11-15 | Average margins, breakeven FCF, moderate leverage, decent ROIC (10-15%) | Net margin 5-10%, D/E <2.0 |
-| 6-10  | Thin margins, negative FCF, high leverage, low ROIC (<10%) | Net margin <5%, D/E >2.0 |
-| 1-5   | Burning cash, overleveraged, deteriorating fundamentals | Negative FCF, D/E >3.0 |
+| Score | Criteria | Chokepoint Signal |
+|-------|----------|-------------------|
+| 21-25 | Gross margin >55%, strong FCF, low debt, ROIC >20% | **Pricing power confirmed** — the market validates the chokepoint |
+| 16-20 | Gross margin 40-55%, positive FCF, manageable debt | Good pricing power, room to expand |
+| 11-15 | Gross margin 30-40%, breakeven FCF, moderate debt | Some pricing power, watch trend |
+| 6-10  | Gross margin 20-30%, negative FCF, high leverage | **Chokepoint without pricing power** — structural problem |
+| 1-5   | Gross margin <20%, burning cash, overleveraged | Commodity economics despite market position |
+
+**Gross margin is the single most important financial metric.** A true chokepoint should have >40% gross margins. If a company has monopoly market share but <30% gross margins, either the "chokepoint" is fake (customers have alternatives you missed) or management is leaving money on the table.
 
 ## 3. Growth (20 points)
 
-| Score | Criteria | Data Check |
-|-------|----------|------------|
-| 17-20 | Revenue CAGR >20%, accelerating growth, large TAM runway | YoY rev growth >20%, sequential acceleration |
-| 13-16 | Revenue CAGR 10-20%, steady growth, good TAM | YoY rev growth 10-20% |
-| 9-12  | Revenue CAGR 5-10%, mature but stable | YoY rev growth 5-10% |
-| 5-8   | Revenue CAGR 0-5%, slow growth, limited upside | YoY rev growth 0-5% |
-| 1-4   | Declining revenue, shrinking TAM | Negative YoY rev growth |
+| Score | Criteria | Chokepoint Signal |
+|-------|----------|-------------------|
+| 17-20 | Revenue CAGR >20%, accelerating, TAM expanding | Downstream chain growing = more tolls collected |
+| 13-16 | Revenue CAGR 10-20%, steady growth | Healthy demand pull-through |
+| 9-12  | Revenue CAGR 5-10%, mature but stable | Chokepoint in mature chain — still valuable if margins high |
+| 5-8   | Revenue CAGR 0-5%, slow growth | Chain may be declining or chokepoint being bypassed |
+| 1-4   | Declining revenue | Chokepoint is being disrupted — DANGER |
 
-## 4. Valuation (20 points)
+## 4. Valuation (15 points)
 
-| Score | Criteria | Data Check |
-|-------|----------|------------|
-| 17-20 | Significantly undervalued vs intrinsic value and peers, PEG <1 | P/E < sector median, PEG <1.0 |
-| 13-16 | Moderately undervalued, reasonable multiples for growth | P/E near sector median, PEG 1.0-1.5 |
-| 9-12  | Fairly valued, priced for current expectations | P/E at sector median, PEG 1.5-2.0 |
-| 5-8   | Somewhat overvalued, priced for perfection | P/E > 1.5x sector median, PEG 2.0-3.0 |
-| 1-4   | Extremely overvalued, bubble territory | P/E > 2x sector median, PEG >3.0 |
+| Score | Criteria |
+|-------|----------|
+| 13-15 | Significantly undervalued vs chokepoint quality; market hasn't recognized the position |
+| 10-12 | Fairly valued for a chokepoint; reasonable multiples given moat + growth |
+| 7-9   | Fully valued; chokepoint recognized and priced in |
+| 4-6   | Overvalued; priced beyond even the best-case chokepoint scenario |
+| 1-3   | Extreme overvaluation; a good company is not a good stock at any price |
+
+**Valuation context for chokepoints:**
+- Monopoly chokepoints with >50% gross margins deserve premium multiples (20-35x earnings)
+- But even the best chokepoint can be overpriced (see: LITE at 62x fwd P/E in the AI photonics research)
+- The best entry point: a chokepoint where the market sees the RISK but misses the IRREPLACEABILITY
 
 ## 5. Catalyst & Timing (10 points)
 
-| Score | Criteria | Data Check |
-|-------|----------|------------|
-| 9-10  | Strong near-term catalyst, positive momentum, sentiment inflection | RSI recovering from <30, news sentiment positive, insider buying |
-| 7-8   | Identifiable catalyst within 6 months | Upcoming earnings, product launch, analyst upgrades |
-| 5-6   | No clear catalyst, neutral sentiment | RSI 40-60, mixed news, no insider activity |
-| 3-4   | Headwinds present, negative sentiment | RSI >65, negative news flow, insider selling |
-| 1-2   | Major overhang, regulatory/legal risk, earnings deterioration | RSI >80, investigation, guidance cuts |
+| Score | Criteria |
+|-------|----------|
+| 9-10  | Downstream demand inflection + positive technical setup (RSI <40, above 200d SMA) |
+| 7-8   | Clear catalyst within 6 months (capacity expansion, new product cycle, regulatory approval) |
+| 5-6   | No clear catalyst, neutral sentiment and technicals |
+| 3-4   | Headwinds: demand softening, capacity coming online at competitors, negative sentiment |
+| 1-2   | Active demand destruction, technology displacement, regulatory threat to chokepoint |
 
-## Signal Adjustments (applied after base score)
+## Signal Adjustments
 
-### Bullish Signals
+### Bullish
 | Signal | Adjustment | How to Verify |
 |--------|------------|---------------|
-| Insider cluster buying (3+ buys, 90 days) | +3 | SEC EDGAR Form 4 search |
-| Earnings beat + raised guidance | +2 | Recent news / earnings report |
-| RSI < 30 (oversold) | +2 | Yahoo Finance OHLCV or Twelve Data |
+| Insider cluster buying (3+ buys, 90 days) | +3 | SEC EDGAR Form 4 |
+| Earnings beat + raised guidance | +2 | News / earnings report |
+| RSI < 30 (oversold) | +2 | Yahoo Finance / Twelve Data |
 | StockTwits sentiment > 70% bullish | +1 | StockTwits API |
-| Reddit mentions surging (momentum, not meme) | +1 | ApeWisdom API |
+| Downstream customer capex guidance up | +2 | Customer earnings calls |
 
-### Bearish Signals
+### Bearish
 | Signal | Adjustment | How to Verify |
 |--------|------------|---------------|
-| RSI > 70 (overbought) | -2 | Yahoo Finance OHLCV or Twelve Data |
+| RSI > 70 (overbought) | -2 | Yahoo Finance / Twelve Data |
+| Customer concentration >50% from 1 customer | -3 | 10-K filing, earnings call |
+| Manufacturing in geopolitically risky location | -3 | Company filings |
 | StockTwits sentiment < 30% bullish | -1 | StockTwits API |
-| Reddit meme surge (no fundamentals) | -1 | ApeWisdom + context check |
-| Accounting red flags / restatements | -3 | SEC EDGAR / news search |
-| Under SEC/regulatory investigation | -5 | SEC EDGAR / news search |
+| Accounting red flags / restatements | -3 | SEC EDGAR / news |
+| Under SEC/regulatory investigation | -5 | SEC EDGAR / news |
+| Downstream customer cutting capex | -3 | Customer earnings calls |
 
-### Flags (no auto-adjustment, note in report)
-| Signal | What It Means |
+### Flags (note in report, no auto-adjustment)
+| Signal | Interpretation |
 |--------|---------------|
-| Unusual volume (>2x 20-day avg) | Something is happening — could be good or bad |
-| Price >15% off 52-week high | Potential value or falling knife |
-| Price within 5% of 52-week high | Momentum or toppy |
-| Put/call ratio >1.2 (market-wide) | Fearful market — contrarian bullish context |
-| Put/call ratio <0.6 (market-wide) | Greedy market — contrarian bearish context |
+| Unusual volume (>2x 20d avg) | Something is happening — investigate |
+| Price >20% off 52wk high | Potential value or falling knife — depends on why |
+| Competitor raising capacity | Chokepoint may loosen in 2-3 years — monitor |
+| Customer vertical integration announced | Existential risk to chokepoint — deep research needed |
 
 ## Verdict Thresholds
 
-| Score | Verdict |
-|-------|---------|
-| 75+   | BUY — strong conviction, set a price target |
-| 55-74 | HOLD — decent business, not compelling at current price |
-| <55   | AVOID — fundamental or valuation concerns |
+| Score | Verdict | Chokepoint Context |
+|-------|---------|-------------------|
+| 75+   | **BUY** | High chokepoint strength + reasonable valuation + catalyst |
+| 55-74 | **HOLD** | Good chokepoint but overvalued, or moderate chokepoint with ok value |
+| <55   | **AVOID** | Weak chokepoint, or strong chokepoint with fatal flaw (execution, geopolitics, customer concentration) |
 
 ## Self-Correction
 
-After every 10 stocks, review accuracy:
-- If BUY picks are consistently losing value: tighten valuation scoring
-- If AVOID picks are rallying: check if momentum/sentiment signals were ignored
-- If all scores cluster in 55-70 range: recalibrate — the rubric may be too conservative or generous
+After every 10 stocks:
+- Do monopoly chokepoints (score 20+/25) outperform? If yes, weight chokepoint even higher
+- Are valuation scores too generous? If BUYs are losing money, tighten the valuation dimension
+- Does gross margin >50% predict positive returns? Track this correlation
 - Update this file with learnings
