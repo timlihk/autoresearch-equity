@@ -25,5 +25,10 @@ IPGP
 IIVI
 RELL
 
+# Discovery Mode — Supply Chain Bottleneck Plays
+AXTI    # AXT Inc — 60-70% of global InP substrate production (critical bottleneck)
+MTSI    # MACOM Technology — high-speed analog/optical components for AI data centers
+CRDO    # Credo Technology — high-speed connectivity, SerDes for optical modules
+
 # China Optical (if researchable)
 # 300308.SZ  — Zhongji Innolight (dominant AI transceiver supplier)
