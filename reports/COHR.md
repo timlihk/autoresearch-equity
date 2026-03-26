@@ -1,6 +1,6 @@
 # COHR - Coherent Corp
-## Date: 2026-03-24
-## Score: 65/100
+## Date: 2026-03-26 (UPDATED)
+## Score: 68/100 (upgraded from 65)
 
 ### Thesis (2-3 sentences)
 Coherent is the dominant pure-play in optical transceivers for AI data centers, uniquely offering three 1.6T architectures (silicon photonics, EML, VCSEL) and cementing its position via a $2B NVIDIA strategic partnership. The business is inflecting strongly on AI-driven demand with bookings extending to 2028, but the stock's ~50x forward P/E and negative trailing FCF price in much of the upside already. A great business at a full valuation.

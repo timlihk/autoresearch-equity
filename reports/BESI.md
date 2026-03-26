@@ -1,6 +1,6 @@
 # BESI.AS - BE Semiconductor Industries (Besi)
-## Date: 2026-03-24
-## Score: 73/100
+## Date: 2026-03-26 (UPDATED)
+## Score: 77/100 (upgraded from 73 — potential M&A target)
 
 ### Thesis (2-3 sentences)
 Besi is the global leader in semiconductor die-attach equipment (42% market share) and the undisputed pioneer of hybrid bonding -- the breakthrough packaging technology enabling AI chiplets, HBM stacking, and co-packaged optics. Q4 2025 orders surged 105% YoY driven by AI 2.5D packaging and photonics applications, with hybrid bonding projected to reach €476M revenue by 2026 (~1/3 of total business). At 63-65% gross margins and a target model of €1.5-1.9B revenue with 40-55% operating margins, Besi is the equipment chokepoint for advanced photonic chip packaging.
