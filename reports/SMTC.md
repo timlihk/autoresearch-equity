@@ -1,6 +1,6 @@
 # SMTC - Semtech Corporation
-## Date: 2026-03-24
-## Score: 70/100
+## Date: 2026-03-26 (UPDATED)
+## Score: 74/100 (upgraded from 70 — HIFU InP laser acquisition + DC +58% + CopperEdge > LPO revenue)
 
 ### Thesis (2-3 sentences)
 Semtech is an under-discovered optical analog IC company with a transformative position in Linear Pluggable Optics (LPO) -- a disruptive architecture that REMOVES the power-hungry DSP chip from optical modules, saving significant power and cost. With FiberEdge TIAs inside transceiver modules across multiple hyperscaler design wins, CopperEdge ACC technology offering 90% power savings vs optical alternatives, and data center revenue growing 50%+, Semtech is pivoting from an IoT company into an AI interconnect powerhouse. Record $1.05B FY26 revenue, deleveraged from 8.8x to 1.6x, trending toward 60% gross margins.
