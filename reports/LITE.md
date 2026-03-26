@@ -1,9 +1,9 @@
 # LITE - Lumentum Holdings
-## Date: 2026-03-24
-## Score: 70/100
+## Date: 2026-03-26 (UPDATED)
+## Score: 72/100 (upgraded from 70)
 
 ### Thesis (2-3 sentences)
-Lumentum is the laser chip kingmaker of the AI optical buildout, holding 50-60% share in high-end EML laser chips and being the only supplier shipping 200Gbps/lane EMLs at scale for 1.6T transceivers. Demand exceeds supply by 25-30%, with a $2B NVIDIA strategic investment and a credible path to $8B annual revenue within 18-24 months. However, at $52B market cap and 62x forward P/E, the stock has priced in an extraordinary amount of execution.
+Lumentum just joined the S&P 500 (March 23, 2026) — capping a 989% one-year gain to $802/share. The laser chip kingmaker holds 50-60% high-end EML share, the only supplier shipping 200G/lane EMLs at scale. Revenue hit $1.645B, OCS backlog surged above $400M, and the NVIDIA $2B partnership secures multi-year demand. Targeting $2B/quarter ($8B annual) in 18-24 months. S&P 500 inclusion creates structural index fund buying pressure. The 2nd best performer in the entire S&P 500 over the past year.
 
 ### Key Metrics
 | Metric | Value | vs Sector |
