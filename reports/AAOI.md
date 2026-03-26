@@ -1,9 +1,9 @@
 # AAOI - Applied Optoelectronics
-## Date: 2026-03-24
-## Score: 59/100
+## Date: 2026-03-26 (UPDATED)
+## Score: 68/100 (upgraded from 59)
 
 ### Thesis (2-3 sentences)
-Applied Optoelectronics is the scrappy under-discovered dark horse in AI photonics -- a vertically integrated transceiver maker with zero debt, the largest U.S.-based manufacturing capacity for AI optics, and near-zero China content. The company is inflecting from a legacy CATV business toward 800G/1.6T data center transceivers with a $200M+ first 1.6T volume order and 3.5x data center revenue growth projected for CY26. Still unprofitable but rapidly scaling into a massive demand wave.
+Applied Optoelectronics has crossed the profitability inflection -- guiding FY2026 revenue over $1B and non-GAAP operating profit above $120M, up from a loss-making $456M in FY2025. The US-based vertically integrated transceiver maker secured a $200M+ 1.6T order, a $53M 800G order (March 24), and is ramping to 500K units/month capacity. With zero debt, near-zero China content, and the largest US optical transceiver manufacturing footprint, AAOI is the "Made in America" AI optics play now crossing into profitability.
 
 ### Key Metrics
 | Metric | Value | vs Sector |
