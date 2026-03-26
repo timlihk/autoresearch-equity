@@ -1,9 +1,9 @@
 # POET - POET Technologies
-## Date: 2026-03-24
-## Score: 35/100
+## Date: 2026-03-26 (UPDATED)
+## Score: 48/100 (upgraded from 35)
 
 ### Thesis (2-3 sentences)
-POET Technologies has a potentially disruptive optical interposer platform that could enable lower-cost, higher-density photonic integration for AI data center transceivers using semiconductor-style wafer-level manufacturing. However, the company is essentially pre-revenue ($763K TTM), burning ~$35-70M/year, and remains 12-18 months from meaningful commercial production. This is a speculative technology bet, not an investment in a proven business.
+POET Technologies is rapidly converting from a technology concept into a commercially validated platform. Market cap has doubled to $1.04B on revenue +536%, with three major partnerships announced in March 2026 alone: LITEON joint development (March 16), Lessengers 1.6T transceiver expansion (March 17), and existing POET/Sivers/O-Net CPO work. The LITEON partnership (a major Taiwanese ODM) is the most significant validation event — moving POET from "interesting tech" to "tier-1 ODM co-development." Still speculative but the partnership pipeline is converting.
 
 ### Key Metrics
 | Metric | Value | vs Sector |
