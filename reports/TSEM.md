@@ -1,9 +1,9 @@
 # TSEM - Tower Semiconductor
-## Date: 2026-03-24
-## Score: 75/100
+## Date: 2026-03-26 (UPDATED)
+## Score: 78/100 (upgraded from 75)
 
 ### Thesis (2-3 sentences)
-Tower Semiconductor is the foundry chokepoint of the entire silicon photonics stack -- holding 85% market share as the primary SiPh foundry for 1.6T and 3.2T optical transceivers, with Broadcom, Intel, and others manufacturing their photonic ICs on Tower's platform. With a $920M capex expansion to 5x SiPh capacity by late 2026 (70%+ already reserved through 2028 with prepayments), an NVIDIA collaboration on 1.6T optical modules, and SiPh revenue surging 115% YoY to $228M, Tower is the "TSMC of photonics" hiding in plain sight. The only supplier upstream of Tower for photonics-grade SOI wafers? Soitec (SOI.PA) -- creating a two-company monopoly stack.
+Tower Semiconductor just demonstrated the most important silicon photonics breakthrough of 2026: on March 23, Tower and Coherent achieved **400Gbps/lane data transmission using a production-ready silicon modulator** — enabling 3.2T transceivers (8×400G) and doubling the bandwidth available for next-gen AI inference. This cements Tower's 85% SiPh foundry position as the pathway to 3.2T. With $920M capex expansion to 5x capacity (70%+ reserved), Q4 record $440M revenue (+14%), analyst targets raised to $165-$180, and the Soitec monopoly wafer supply, Tower is the "TSMC of photonics" now validated for the 3.2T generation. Stock surged 11% on the announcement.
 
 ### Historical & Projected Financials
 | Period | Revenue | SiPh Revenue | Gross Margin | Net Income | Notes |
